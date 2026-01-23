@@ -1,3 +1,2 @@
 # Coursera
-Test formation
-Pour editer
+Jupyter Notebooks for the Capstone Project
